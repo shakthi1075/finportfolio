@@ -13,7 +13,7 @@ a:hover{
 }
 
 .headimg{
-    background-image: url(/images/head-bg.png);
+    background-image: url(/head-bg.png);
     padding: 130px 1px;
     background-repeat: no-repeat;
 }
@@ -25,7 +25,7 @@ a:hover{
     font-size: 8rem;
     font-weight: lighter;
     position: relative;
-    background-image: url(/images/photo1.png);
+    background-image: url(/photo1.png);
     background-repeat: no-repeat;
     background-position-x: 280%;
     background-position-y: 19%;
@@ -35,7 +35,7 @@ a:hover{
 
 .bm:hover{
     color: #FEFF9E;
-    background-image: url(/images/photo1.png);
+    background-image: url(/photo1.png);
     background-repeat: no-repeat;
     background-position-x: 100%;
     background-position-y: 19%;
